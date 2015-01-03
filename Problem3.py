@@ -22,8 +22,8 @@ divisor=5
 dividend=7
 largestPrime=5
 (5*5=25, which is greater than 7, so we  break out of the loop)
-If the dividend is greater than the last divisor, we know this number
-is the actual largest prime factor.
+If the dividend is greater than the last largest prime factor, we know this number
+is the actual largest prime factor. So 7 ends up being the largest prime factor.
 '''
 
 num=600851475143
