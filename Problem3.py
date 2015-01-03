@@ -26,7 +26,7 @@ If the dividend is greater than the last divisor, we know this number
 is the actual largest prime factor.
 '''
 
-num=24
+num=600851475143
 dividend=num
 divisor=2
 largestPrime=0
